@@ -1,0 +1,18 @@
+{
+  "name": "spirit-sanctuary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Spirit Sanctuary: The Lantern Garden \u2014 an AI-assisted browser action roguelite extension.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "start:lan": "node server.mjs --host=0.0.0.0",
+    "preview": "node server.mjs --dir=dist",
+    "check": "node check.mjs",
+    "build": "node build.mjs"
+  }
+}

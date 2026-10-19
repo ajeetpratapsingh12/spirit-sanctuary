@@ -1,0 +1,20 @@
+Spirit Sanctuary: The Lantern Garden
+
+This project is based on the JetBrains Academy course
+"Build a Game With an AI Coding Agent" and its course project:
+https://github.com/jetbrains-academy/game-course
+
+Copyright (c) 2025 JetBrains Academy
+Licensed under the MIT License. The original license is included in LICENSE.
+
+This participant extension was developed from a user-supplied browser prototype
+with OpenAI Codex assistance. The painted stone texture was created with OpenAI
+image generation. See ATTRIBUTION.md, ASSETS.md and AI_DISCLOSURE.md.
+
+Bundled dependencies:
+- Three.js r128: Copyright 2010-2021 three.js authors; MIT; THREE-LICENSE.txt.
+- Tailwind CSS 3.4.17 compiled stylesheet: Copyright Tailwind Labs, Inc.; MIT;
+  TAILWIND-LICENSE.txt.
+
+These notices must be preserved when distributing the applicable material.
+No affiliation with or endorsement by the course organizer is implied.
