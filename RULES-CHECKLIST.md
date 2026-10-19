@@ -5,7 +5,7 @@ This checklist implements the repository requirements supplied by the participan
 ## Repository requirements
 
 - [x] Public GitHub repository created and verified: https://github.com/ajeetpratapsingh12/spirit-sanctuary
-- [ ] Public playable GitHub Pages URL deployed and verified. This is an additional convenience for players.
+- [x] Public playable GitHub Pages URL deployed and verified: https://ajeetpratapsingh12.github.io/spirit-sanctuary/
 - [x] Source and all runtime assets included. No private services, API keys or downloaded packages are required to run.
 - [x] Build/run commands in README.md; deterministic offline/static packaging in build.mjs.
 - [x] Course attribution in README.md, NOTICE and ATTRIBUTION.md; original MIT license retained in LICENSE.

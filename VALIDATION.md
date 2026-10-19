@@ -22,4 +22,9 @@ The built-site HTTP smoke check passed for the page, JavaScript, CSS, JPEG textu
 
 ## Publication
 
-The public repository and the GitHub Pages URL are verified separately after upload. GitHub Pages may take a few minutes to deploy a new commit.
+On October 20, 2026, the public repository was uploaded and GitHub Pages was enabled from `main` / root. The public HTTPS play link loaded the title screen, started the game and ran movement/lash/combat checks with no JavaScript errors reported. The play link is also present in the README and repository About panel.
+
+- Repository: https://github.com/ajeetpratapsingh12/spirit-sanctuary
+- Play: https://ajeetpratapsingh12.github.io/spirit-sanctuary/
+
+Later changes to `main` trigger another Pages deployment; allow it time to finish before checking new changes.
